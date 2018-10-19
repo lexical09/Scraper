@@ -3,7 +3,7 @@ Glassdoor web crawler and scraper for interview experience data
 
 ## Installation
 
-* Python 2.7.*
+* Python 3.*
 
 * Beautiful Soup 4 (4.4.1)
 ```sh
