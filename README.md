@@ -1,2 +1,6 @@
 # Scraper
-different scraper models 
+Web scrapers for different purposes:
+- Glassdoor
+- Indeed 
+- Zillow
+
